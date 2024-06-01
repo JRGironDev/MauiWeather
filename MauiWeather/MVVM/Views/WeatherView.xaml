@@ -12,5 +12,14 @@
                 Placeholder="Search"
                 VerticalOptions="Center"/>
         </Grid>
+
+        <VerticalStackLayout Grid.Row="1">
+            <Label
+                Text="Paris"
+                TextColor="{StaticResource White}"/>
+            <Label
+                Text="July 08, 2050"
+                TextColor="{StaticResource White}"/>
+        </VerticalStackLayout>
     </Grid>
 </ContentPage>  

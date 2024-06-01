@@ -40,6 +40,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = MauiWeather.MVVM.Views.Wea
 build_metadata.AdditionalFiles.TargetPath = MVVM/Views/WeatherView.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM/Views/WeatherView.xaml
 
+[/Users/josequinonez/C\#/MAUI/MAUIWeather/MauiWeather/Resources/Styles/AppStyles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiWeather.Resources.Styles.AppStyles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/AppStyles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/AppStyles.xaml
+
 [/Users/josequinonez/C\#/MAUI/MAUIWeather/MauiWeather/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiWeather.Resources.Styles.Colors.xaml

@@ -311,3 +311,5 @@
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/MauiWeather.pdb
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/MauiWeather.genruntimeconfig.cache
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/ref/MauiWeather.dll
+/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/resizetizer/f/Rubik-Light.ttf
+/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/resizetizer/f/Rubik-Regular.ttf
