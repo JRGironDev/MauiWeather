@@ -20,4 +20,13 @@
                 <Setter Property="VerticalOptions"
                         Value="Center"/>
         </Style>
+
+        <Style
+                x:Key="Title"
+                TargetType="Label">
+                <Setter Property="FontAttributes"
+                        Value="Bold"/>
+                <Setter Property="FontSize"
+                        Value="Large"/>
+        </Style>
 </ResourceDictionary>

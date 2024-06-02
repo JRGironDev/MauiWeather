@@ -13,10 +13,13 @@
                 VerticalOptions="Center"/>
         </Grid>
 
-        <VerticalStackLayout Grid.Row="1">
+        <VerticalStackLayout 
+            Grid.Row="1"
+            Style="{StaticResource MainStackLayout}">
             <Label
                 Text="Paris"
-                TextColor="{StaticResource White}"/>
+                TextColor="{StaticResource White}"
+                Style="{StaticResource Title}"/>
             <Label
                 Text="July 08, 2050"
                 TextColor="{StaticResource White}"/>
