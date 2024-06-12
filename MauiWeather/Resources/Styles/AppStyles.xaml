@@ -31,4 +31,37 @@
                 <Setter Property="FontSize"
                         Value="Large"/>
         </Style>
+
+        <Style
+                x:Key="WeatherTitle"
+                TargetType="Label">
+                <Setter Property="FontFamily"
+                        Value="RubikLight"/>
+        </Style>
+
+        <Style
+                x:Key="WeatherValue"
+                TargetType="Label">
+                <Setter Property="FontAttributes"
+                        Value="Bold"/>
+        </Style>
+
+        <Style
+                x:Key="card"
+                TargetType="Frame">
+                <Setter Property="Padding"
+                        Value="0"/>
+                <Setter Property="BackgroundColor"
+                        Value="{StaticResource CardBlue}"/>
+                <Setter Property="BorderColor"
+                        Value="Transparent"/>
+                <Setter Property="CornerRadius"
+                        Value="25"/>
+                <Setter Property="HeightRequest"
+                        Value="150"/>
+                <Setter Property="WidthRequest"
+                        Value="150"/>
+                <Setter Property="Opacity"
+                        Value=".1"/>
+        </Style>
 </ResourceDictionary>

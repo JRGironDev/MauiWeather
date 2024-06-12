@@ -28,6 +28,8 @@
     <Color x:Key="Gray900">#212121</Color>
     <Color x:Key="Gray950">#141414</Color>
 
+    <Color x:Key="Yellow100Accent">#FFD600</Color>
+
     <SolidColorBrush x:Key="PrimaryBrush"
             Color="{StaticResource Primary}"/>
     <SolidColorBrush x:Key="SecondaryBrush"
@@ -57,4 +59,5 @@
             Color="{StaticResource Gray950}"/>
 
     <Color x:Key="DarkBlue">#060723</Color>
+    <Color x:Key="CardBlue">#11112B</Color>
 </ResourceDictionary>
