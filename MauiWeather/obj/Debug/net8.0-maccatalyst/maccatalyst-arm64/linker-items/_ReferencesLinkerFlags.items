@@ -224,7 +224,7 @@
     <_ReferencesLinkerFlags Include="-u_AppleCryptoNative_RsaEncryptOaep" />
     <_ReferencesLinkerFlags Include="-u_AppleCryptoNative_RsaEncryptPkcs" />
     <_ReferencesLinkerFlags Include="-u_AppleCryptoNative_RsaDecryptOaep" />
-    <_ReferencesLinkerFlags Include="-u_AppleCryptoNative_RsaDecryptPkcs" />
+    <_ReferencesLinkerFlags Include="-u_AppleCryptoNative_RsaDecryptRaw" />
     <_ReferencesLinkerFlags Include="-u_AppleCryptoNative_SecKeyGetSimpleKeySizeInBytes" />
     <_ReferencesLinkerFlags Include="-u_AppleCryptoNative_SecKeyCreateWithData" />
     <_ReferencesLinkerFlags Include="-u_AppleCryptoNative_SecKeyCopyExternalRepresentation" />

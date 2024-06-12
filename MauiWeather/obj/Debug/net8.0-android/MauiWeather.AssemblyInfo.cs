@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiWeather")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+b7a4b132dca7025ff2d0579ef4b80c8c47ee2b68")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+faea516f84ef85cd923c886ef9ddeb8430fe64b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiWeather")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiWeather")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

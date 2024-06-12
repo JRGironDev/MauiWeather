@@ -49,6 +49,14 @@
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MauiWeather.app/Microsoft.Maui.dll
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MauiWeather.app/Microsoft.Maui.Essentials.dll
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MauiWeather.app/Microsoft.Maui.Graphics.dll
+/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MauiWeather.app/SkiaSharp.dll
+/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MauiWeather.app/SkiaSharp.Extended.dll
+/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MauiWeather.app/SkiaSharp.Extended.UI.dll
+/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MauiWeather.app/SkiaSharp.SceneGraph.dll
+/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MauiWeather.app/SkiaSharp.Skottie.dll
+/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MauiWeather.app/SkiaSharp.Views.iOS.dll
+/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MauiWeather.app/SkiaSharp.Views.Maui.Controls.dll
+/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MauiWeather.app/SkiaSharp.Views.Maui.Core.dll
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MauiWeather.app/MauiWeather.dll
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MauiWeather.app/Microsoft.CSharp.dll
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../MauiWeather.app/Microsoft.VisualBasic.Core.dll

@@ -1,1 +1,0 @@
--v --force --timestamp=none --sign - --entitlements /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/MauiWeather.app

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="MauiWeather.app/Contents/MacOS/MauiWeather">
+      <BCSymbolMapName>MauiWeather.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>MauiWeather.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/device-builds/iphone16.1-17.5/mtouch-symbols.list</SymbolFile>
+      <DSymName>MauiWeather.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

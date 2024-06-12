@@ -19,6 +19,8 @@
                         Value="Center"/>
                 <Setter Property="VerticalOptions"
                         Value="Center"/>
+                <Setter Property="TextColor"
+                        Value="{StaticResource White}"/>
         </Style>
 
         <Style
