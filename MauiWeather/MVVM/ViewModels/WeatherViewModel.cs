@@ -1,12 +1,18 @@
 ﻿using System.Text.Json;
 using System.Windows.Input;
 using MauiWeather.MVVM.Models;
+using PropertyChanged;
 
 namespace MauiWeather.MVVM.ViewModels;
 
+[AddINotifyPropertyChangedInterface]
 public class WeatherViewModel
 {
     public WeatherData WeatherData { get; set; }
+
+    public string PlaceName { get; set; }
+
+    public DateTime Date => DateTime.Now;
 
     private HttpClient client;
 
@@ -18,6 +24,8 @@ public class WeatherViewModel
     public ICommand SearchCommand =>
         new Command(async (searchText) =>
             {
+                PlaceName = searchText.ToString();
+
                 var location = await GetCoordinatesAsync(searchText.ToString());
 
                 await GetWeatherAsync(location);
@@ -30,7 +38,7 @@ public class WeatherViewModel
         Location location = locations?.FirstOrDefault();
 
         if (location is not null) Console.WriteLine($"Latitude: {location.Latitude}, Longitude: {location.Longitude}, Altitude: {location.Altitude}");
-        
+
         return location;
     }
 

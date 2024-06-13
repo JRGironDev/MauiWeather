@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "p88h8VgnoJY=",
+  "dgSpecHash": "66RBkNEzX+g=",
   "success": true,
   "projectFilePath": "/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/MauiWeather.csproj",
   "expectedPackageFiles": [
+    "/Users/josequinonez/.nuget/packages/fody/6.6.4/fody.6.6.4.nupkg.sha512",
     "/Users/josequinonez/.nuget/packages/googlegson/2.10.1.4/googlegson.2.10.1.4.nupkg.sha512",
     "/Users/josequinonez/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "/Users/josequinonez/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
@@ -24,6 +25,7 @@
     "/Users/josequinonez/.nuget/packages/microsoft.maui.graphics/8.0.21/microsoft.maui.graphics.8.0.21.nupkg.sha512",
     "/Users/josequinonez/.nuget/packages/microsoft.maui.resizetizer/8.0.21/microsoft.maui.resizetizer.8.0.21.nupkg.sha512",
     "/Users/josequinonez/.nuget/packages/microsoft.net.illink.tasks/8.0.6/microsoft.net.illink.tasks.8.0.6.nupkg.sha512",
+    "/Users/josequinonez/.nuget/packages/propertychanged.fody/4.1.0/propertychanged.fody.4.1.0.nupkg.sha512",
     "/Users/josequinonez/.nuget/packages/skiasharp/2.88.7/skiasharp.2.88.7.nupkg.sha512",
     "/Users/josequinonez/.nuget/packages/skiasharp.extended/2.0.0/skiasharp.extended.2.0.0.nupkg.sha512",
     "/Users/josequinonez/.nuget/packages/skiasharp.extended.ui.maui/2.0.0/skiasharp.extended.ui.maui.2.0.0.nupkg.sha512",

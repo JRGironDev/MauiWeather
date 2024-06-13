@@ -21,10 +21,10 @@
             Grid.Row="1"
             Style="{StaticResource MainStackLayout}">
             <Label
-                Text="Paris"
+                Text="{Binding PlaceName}"
                 Style="{StaticResource Title}"/>
             <Label
-                Text="July 08, 2050"/>
+                Text="{Binding Date, StringFormat='{0:MMMMM dd, yyyy}' }"/>
         </VerticalStackLayout>
 
         <skia:SKLottieView

@@ -62,6 +62,6 @@
                 <Setter Property="WidthRequest"
                         Value="150"/>
                 <Setter Property="Opacity"
-                        Value=".1"/>
+                        Value=".8"/>
         </Style>
 </ResourceDictionary>
