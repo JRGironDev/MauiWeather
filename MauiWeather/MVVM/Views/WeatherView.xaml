@@ -42,7 +42,7 @@
                     Text="Temp"
                     Style="{StaticResource WeatherTitle}"/>
                 <Label
-                    Text="25°C"
+                    Text="{Binding WeatherData.daily.temperature_2m_max, StringFormat='{0}°C' }"
                     Style="{StaticResource WeatherValue}"/>
             </VerticalStackLayout>
 
@@ -54,7 +54,7 @@
                     Text="Wind"
                     Style="{StaticResource WeatherTitle}"/>
                 <Label
-                    Text="10Km/h"
+                    Text="{Binding WeatherData.current_weather.windspeed, StringFormat='{0} km/h'} "
                     Style="{StaticResource WeatherValue}"/>
             </VerticalStackLayout>
 
@@ -89,7 +89,7 @@
                 <DataTemplate>
                     <Frame Style="{StaticResource card}">
                         <VerticalStackLayout Spacing="5"
-                                VerticalOptions="Center">
+                                             VerticalOptions="Center">
                             <skia:SKLottieView
                                 IsAnimationEnabled="False"
                                 HeightRequest="50"
@@ -97,7 +97,7 @@
                                 Source="mist.json"/>
                             <Label
                                 Text="08-02-2050"
-                                    TextColor="{StaticResource Yellow100Accent}"/>
+                                TextColor="{StaticResource Yellow100Accent}"/>
                             <Label
                                 Text="50°C"/>
                             <Label

@@ -270,6 +270,9 @@
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-ios/iossimulator-arm64/libxamarin-dotnet-nativeaot.a
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-ios/iossimulator-arm64/libxamarin-dotnet.a
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-ios/iossimulator-arm64/libxamarin-dotnet.dylib
+/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-ios/iossimulator-arm64/Microsoft.Maui.Controls.HotReload.Forms.dll
+/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-ios/iossimulator-arm64/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-ios/iossimulator-arm64/Microsoft.VisualStudio.DesignTools.TapContract.dll
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/mauiimage.inputs
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/mauifont.inputs
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/mauisplash.inputs
@@ -317,6 +320,8 @@
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/MauiWeather.AssemblyInfo.cs
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/MauiWeather.csproj.CoreCompileInputs.cache
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/MauiWeather.sourcelink.json
+/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/MauiWeather.csproj.Fody.CopyLocal.cache
+/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/MauiWeather.csproj.Fody.RuntimeCopyLocal.cache
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/XamlC.stamp
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/MauiWeat.2BEA103B.Up2Date
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/MauiWeather.dll
@@ -324,12 +329,3 @@
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/MauiWeather.pdb
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/MauiWeather.genruntimeconfig.cache
 /Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/ref/MauiWeather.dll
-/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-ios/iossimulator-arm64/Microsoft.Maui.Controls.HotReload.Forms.dll
-/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-ios/iossimulator-arm64/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
-/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/bin/Debug/net8.0-ios/iossimulator-arm64/Microsoft.VisualStudio.DesignTools.TapContract.dll
-/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Controls.HotReload.Forms.stamp
-/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.VisualStudio.DesignTools.MobileTapContracts.stamp
-/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.VisualStudio.DesignTools.TapContract.stamp
-/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/PropertyChanged.stamp
-/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/MauiWeather.csproj.Fody.CopyLocal.cache
-/Users/josequinonez/C#/MAUI/MAUIWeather/MauiWeather/obj/Debug/net8.0-ios/iossimulator-arm64/MauiWeather.csproj.Fody.RuntimeCopyLocal.cache
